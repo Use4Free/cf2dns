@@ -1,16 +1,6 @@
 [
     {
         "colo": "Default",
-        "ip": "172.67.218.69",
-        "latency": 208,
-        "line": "CM",
-        "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 1520,
-        "time": "2024-05-02 16:48:20"
-    },
-    {
-        "colo": "Default",
         "ip": "172.67.223.182",
         "latency": 204,
         "line": "CM",
@@ -48,6 +38,16 @@
         "node": "51C_SDCM",
         "speed": 260,
         "time": "2024-05-02 16:53:57"
+    },
+    {
+        "colo": "Default",
+        "ip": "172.64.101.73",
+        "latency": 229,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 260,
+        "time": "2024-05-02 17:15:33"
     },
     {
         "colo": "SJC",
@@ -100,16 +100,6 @@
         "time": "2024-05-02 16:52:32"
     },
     {
-        "colo": "MAD",
-        "ip": "172.64.203.14",
-        "latency": 184,
-        "line": "CU",
-        "loss": 0,
-        "node": "LOLIPA_SDCU",
-        "speed": 980,
-        "time": "2024-05-02 17:11:51"
-    },
-    {
         "colo": "Default",
         "ip": "172.67.29.175",
         "latency": 275,
@@ -121,13 +111,13 @@
     },
     {
         "colo": "SJC",
-        "ip": "172.67.223.106",
-        "latency": 270,
+        "ip": "172.67.192.84",
+        "latency": 245,
         "line": "CU",
         "loss": 0,
-        "node": "LOLIPA_SDCU",
-        "speed": 440,
-        "time": "2024-05-02 17:01:32"
+        "node": "XNIDC_CQCU2",
+        "speed": 380,
+        "time": "2024-05-02 17:24:01"
     },
     {
         "colo": "SJC",
@@ -141,12 +131,22 @@
     },
     {
         "colo": "SJC",
-        "ip": "172.67.13.119",
-        "latency": 264,
+        "ip": "172.64.92.73",
+        "latency": 288,
         "line": "CU",
         "loss": 0,
-        "node": "XNIDC_CQCU",
-        "speed": 265,
-        "time": "2024-05-02 17:10:12"
+        "node": "XIAOLE_SDCU",
+        "speed": 273,
+        "time": "2024-05-02 17:14:09"
+    },
+    {
+        "colo": "MAD",
+        "ip": "172.64.172.128",
+        "latency": 330,
+        "line": "CU",
+        "loss": 0,
+        "node": "XNIDC_CQCU2",
+        "speed": 190,
+        "time": "2024-05-02 17:14:02"
     }
 ]
