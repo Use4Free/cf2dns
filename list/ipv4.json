@@ -1,6 +1,16 @@
 [
     {
         "colo": "Default",
+        "ip": "172.67.151.93",
+        "latency": 195,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 1515,
+        "time": "2024-07-03 04:22:35"
+    },
+    {
+        "colo": "Default",
         "ip": "173.245.49.123",
         "latency": 206,
         "line": "CM",
@@ -11,23 +21,13 @@
     },
     {
         "colo": "LAX",
-        "ip": "172.67.227.96",
-        "latency": 206,
+        "ip": "172.67.244.143",
+        "latency": 204,
         "line": "CM",
         "loss": 0,
         "node": "HOME_CM",
         "speed": 310,
-        "time": "2024-07-03 04:10:26"
-    },
-    {
-        "colo": "LAX",
-        "ip": "172.67.44.161",
-        "latency": 206,
-        "line": "CM",
-        "loss": 0,
-        "node": "HOME_CM",
-        "speed": 310,
-        "time": "2024-07-03 04:10:26"
+        "time": "2024-07-03 04:20:25"
     },
     {
         "colo": "Default",
@@ -40,14 +40,14 @@
         "time": "2024-07-03 04:11:39"
     },
     {
-        "colo": "HKG",
-        "ip": "162.159.130.168",
-        "latency": 76,
+        "colo": "LAX",
+        "ip": "172.64.162.45",
+        "latency": 206,
         "line": "CM",
         "loss": 0,
-        "node": "CZI_HNCU",
-        "speed": 208,
-        "time": "2024-07-03 04:06:40"
+        "node": "HOME_CM",
+        "speed": 215,
+        "time": "2024-07-03 04:20:25"
     },
     {
         "colo": "SJC",
@@ -81,16 +81,6 @@
     },
     {
         "colo": "SJC",
-        "ip": "172.64.142.8",
-        "latency": 129,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 275,
-        "time": "2024-07-03 02:05:39"
-    },
-    {
-        "colo": "SJC",
         "ip": "104.19.84.254",
         "latency": 128,
         "line": "CT",
@@ -100,53 +90,63 @@
         "time": "2024-07-03 02:35:58"
     },
     {
-        "colo": "LAX",
-        "ip": "172.67.207.191",
-        "latency": 196,
-        "line": "CU",
+        "colo": "SJC",
+        "ip": "172.64.142.8",
+        "latency": 129,
+        "line": "CT",
         "loss": 0,
-        "node": "LOLIPA_SDCU",
-        "speed": 965,
-        "time": "2024-07-03 04:11:32"
+        "node": "QYZJBGP",
+        "speed": 275,
+        "time": "2024-07-03 02:05:39"
     },
     {
         "colo": "LAX",
-        "ip": "172.67.179.114",
+        "ip": "172.64.139.162",
+        "latency": 189,
+        "line": "CU",
+        "loss": 0,
+        "node": "LOLIPA_SDCU",
+        "speed": 695,
+        "time": "2024-07-03 04:22:18"
+    },
+    {
+        "colo": "LAX",
+        "ip": "172.64.160.104",
+        "latency": 203,
+        "line": "CU",
+        "loss": 0,
+        "node": "LOLIPA_SDCU",
+        "speed": 265,
+        "time": "2024-07-03 04:21:47"
+    },
+    {
+        "colo": "LAX",
+        "ip": "172.67.39.95",
         "latency": 193,
         "line": "CU",
         "loss": 0,
-        "node": "CZI_HNCU",
-        "speed": 380,
-        "time": "2024-07-03 04:07:26"
-    },
-    {
-        "colo": "LAX",
-        "ip": "172.67.213.70",
-        "latency": 199,
-        "line": "CU",
-        "loss": 0,
-        "node": "CZI_HNCU",
-        "speed": 310,
-        "time": "2024-07-03 04:07:12"
-    },
-    {
-        "colo": "LAX",
-        "ip": "172.67.175.108",
-        "latency": 210,
-        "line": "CU",
-        "loss": 0,
         "node": "LOLIPA_SDCU",
-        "speed": 260,
-        "time": "2024-07-03 04:12:07"
+        "speed": 265,
+        "time": "2024-07-03 04:21:32"
     },
     {
         "colo": "LAX",
-        "ip": "172.67.190.197",
-        "latency": 199,
+        "ip": "172.67.4.174",
+        "latency": 177,
         "line": "CU",
         "loss": 0,
         "node": "LOLIPA_SDCU",
         "speed": 223,
-        "time": "2024-07-03 04:11:32"
+        "time": "2024-07-03 04:22:02"
+    },
+    {
+        "colo": "LAX",
+        "ip": "172.67.82.59",
+        "latency": 208,
+        "line": "CU",
+        "loss": 0,
+        "node": "LOLIPA_SDCU",
+        "speed": 215,
+        "time": "2024-07-03 04:21:48"
     }
 ]
