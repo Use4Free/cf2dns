@@ -1,16 +1,6 @@
 [
     {
         "colo": "Default",
-        "ip": "172.67.143.130",
-        "latency": 277,
-        "line": "CM",
-        "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 895,
-        "time": "2024-08-13 20:09:45"
-    },
-    {
-        "colo": "Default",
         "ip": "172.67.189.119",
         "latency": 184,
         "line": "CM",
@@ -31,13 +21,23 @@
     },
     {
         "colo": "HKG",
-        "ip": "198.41.208.154",
-        "latency": 216,
+        "ip": "162.159.153.32",
+        "latency": 115,
+        "line": "CM",
+        "loss": 0,
+        "node": "SDO_HNCM",
+        "speed": 645,
+        "time": "2024-08-13 21:09:32"
+    },
+    {
+        "colo": "HKG",
+        "ip": "172.67.0.5",
+        "latency": 115,
         "line": "CM",
         "loss": 0,
         "node": "HOME_CM",
-        "speed": 305,
-        "time": "2024-08-13 20:10:25"
+        "speed": 590,
+        "time": "2024-08-13 21:10:24"
     },
     {
         "colo": "SJC",
@@ -48,16 +48,6 @@
         "node": "HOME_CM",
         "speed": 260,
         "time": "2024-08-13 20:10:25"
-    },
-    {
-        "colo": "LHR",
-        "ip": "172.67.134.4",
-        "latency": 170,
-        "line": "CT",
-        "loss": 0,
-        "node": "SDO_ZJCT",
-        "speed": 1550,
-        "time": "2024-08-13 20:40:59"
     },
     {
         "colo": "LAX",
@@ -71,13 +61,13 @@
     },
     {
         "colo": "LHR",
-        "ip": "172.67.167.0",
-        "latency": 194,
+        "ip": "172.67.134.4",
+        "latency": 170,
         "line": "CT",
         "loss": 0,
         "node": "SDO_ZJCT",
-        "speed": 1170,
-        "time": "2024-08-13 20:27:48"
+        "speed": 1550,
+        "time": "2024-08-13 20:40:59"
     },
     {
         "colo": "IAD",
@@ -88,6 +78,16 @@
         "node": "SDO_ZJCT",
         "speed": 1010,
         "time": "2024-08-13 20:37:37"
+    },
+    {
+        "colo": "SJC",
+        "ip": "172.64.101.29",
+        "latency": 130,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 230,
+        "time": "2024-08-13 21:16:56"
     },
     {
         "colo": "SJC",
