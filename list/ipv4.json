@@ -1,16 +1,6 @@
 [
     {
         "colo": "Default",
-        "ip": "172.64.164.73",
-        "latency": 192,
-        "line": "CM",
-        "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 900,
-        "time": "2024-11-10 19:15:11"
-    },
-    {
-        "colo": "Default",
         "ip": "172.64.107.215",
         "latency": 194,
         "line": "CM",
@@ -30,14 +20,24 @@
         "time": "2024-11-10 19:28:03"
     },
     {
-        "colo": "HKG",
-        "ip": "162.159.133.68",
-        "latency": 54,
+        "colo": "Default",
+        "ip": "172.67.190.48",
+        "latency": 197,
         "line": "CM",
         "loss": 0,
-        "node": "CDCM",
-        "speed": 290,
-        "time": "2024-11-10 19:22:39"
+        "node": "51C_SDCM",
+        "speed": 640,
+        "time": "2024-11-10 19:39:06"
+    },
+    {
+        "colo": "Default",
+        "ip": "172.64.172.51",
+        "latency": 205,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 260,
+        "time": "2024-11-10 19:39:08"
     },
     {
         "colo": "HKG",
@@ -50,54 +50,54 @@
         "time": "2024-11-10 19:33:06"
     },
     {
-        "colo": "HKG",
-        "ip": "172.67.29.7",
-        "latency": 198,
-        "line": "CT",
-        "loss": 0,
-        "node": "SDO_ZJCT",
-        "speed": 935,
-        "time": "2024-11-10 19:33:38"
-    },
-    {
-        "colo": "LAX",
-        "ip": "104.16.123.82",
-        "latency": 164,
-        "line": "CT",
-        "loss": 0,
-        "node": "QIXJSCT",
-        "speed": 310,
-        "time": "2024-11-10 19:33:39"
-    },
-    {
-        "colo": "LAX",
-        "ip": "104.16.124.137",
-        "latency": 161,
-        "line": "CT",
-        "loss": 0,
-        "node": "QIXJSCT",
-        "speed": 310,
-        "time": "2024-11-10 19:33:33"
-    },
-    {
-        "colo": "LAX",
-        "ip": "162.159.245.173",
-        "latency": 155,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 295,
-        "time": "2024-11-10 19:35:10"
-    },
-    {
         "colo": "SJC",
-        "ip": "172.64.101.122",
-        "latency": 163,
+        "ip": "104.19.15.162",
+        "latency": 190,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
-        "speed": 175,
-        "time": "2024-11-10 19:35:25"
+        "speed": 340,
+        "time": "2024-11-10 19:45:41"
+    },
+    {
+        "colo": "IAD",
+        "ip": "104.24.245.76",
+        "latency": 197,
+        "line": "CT",
+        "loss": 0,
+        "node": "QIXJSCT",
+        "speed": 310,
+        "time": "2024-11-10 19:43:40"
+    },
+    {
+        "colo": "LAX",
+        "ip": "104.16.127.252",
+        "latency": 159,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 290,
+        "time": "2024-11-10 19:45:10"
+    },
+    {
+        "colo": "HKG",
+        "ip": "104.22.29.114",
+        "latency": 197,
+        "line": "CT",
+        "loss": 0,
+        "node": "QIXJSCT",
+        "speed": 265,
+        "time": "2024-11-10 19:43:34"
+    },
+    {
+        "colo": "HKG",
+        "ip": "104.18.21.33",
+        "latency": 175,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 260,
+        "time": "2024-11-10 19:45:26"
     },
     {
         "colo": "NRT",
@@ -120,6 +120,16 @@
         "time": "2024-11-10 19:29:25"
     },
     {
+        "colo": "FRA",
+        "ip": "172.67.166.48",
+        "latency": 134,
+        "line": "CU",
+        "loss": 0,
+        "node": "KXY_BJCU",
+        "speed": 860,
+        "time": "2024-11-10 19:39:26"
+    },
+    {
         "colo": "CDG",
         "ip": "172.67.205.238",
         "latency": 134,
@@ -138,15 +148,5 @@
         "node": "KXY_BJCU",
         "speed": 280,
         "time": "2024-11-10 18:49:28"
-    },
-    {
-        "colo": "NRT",
-        "ip": "162.159.130.208",
-        "latency": 57,
-        "line": "CU",
-        "loss": 0,
-        "node": "KXY_BJCU",
-        "speed": 275,
-        "time": "2024-11-10 18:39:28"
     }
 ]
