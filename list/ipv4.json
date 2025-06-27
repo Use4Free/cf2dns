@@ -1,23 +1,13 @@
 [
     {
         "colo": "Default",
-        "ip": "162.159.134.247",
-        "latency": 186,
+        "ip": "162.159.152.108",
+        "latency": 194,
         "line": "CM",
         "loss": 0,
         "node": "51C_SDCM",
-        "speed": 930,
-        "time": "2025-06-26 11:54:37"
-    },
-    {
-        "colo": "Default",
-        "ip": "172.67.69.107",
-        "latency": 163,
-        "line": "CM",
-        "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 805,
-        "time": "2025-06-26 12:07:57"
+        "speed": 1320,
+        "time": "2025-06-26 12:41:23"
     },
     {
         "colo": "Default",
@@ -28,6 +18,16 @@
         "node": "51C_SDCM",
         "speed": 795,
         "time": "2025-06-26 12:21:16"
+    },
+    {
+        "colo": "Default",
+        "ip": "172.67.159.142",
+        "latency": 195,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 640,
+        "time": "2025-06-26 12:34:32"
     },
     {
         "colo": "Default",
@@ -50,26 +50,6 @@
         "time": "2025-06-26 12:08:00"
     },
     {
-        "colo": "FRA",
-        "ip": "172.67.14.233",
-        "latency": 245,
-        "line": "CT",
-        "loss": 0,
-        "node": "SDO_HBCT",
-        "speed": 775,
-        "time": "2025-06-26 12:11:33"
-    },
-    {
-        "colo": "FRA",
-        "ip": "172.67.75.39",
-        "latency": 230,
-        "line": "CT",
-        "loss": 0,
-        "node": "SDO_HBCT",
-        "speed": 750,
-        "time": "2025-06-26 12:11:33"
-    },
-    {
         "colo": "LAX",
         "ip": "162.159.241.224",
         "latency": 148,
@@ -78,6 +58,26 @@
         "node": "QIXJSCT",
         "speed": 310,
         "time": "2025-06-26 12:13:38"
+    },
+    {
+        "colo": "SJC",
+        "ip": "104.19.1.1",
+        "latency": 136,
+        "line": "CT",
+        "loss": 0,
+        "node": "QIXJSCT",
+        "speed": 305,
+        "time": "2025-06-26 12:43:45"
+    },
+    {
+        "colo": "LAX",
+        "ip": "104.19.245.214",
+        "latency": 145,
+        "line": "CT",
+        "loss": 0,
+        "node": "QIXJSCT",
+        "speed": 290,
+        "time": "2025-06-26 12:33:53"
     },
     {
         "colo": "SJC",
@@ -100,34 +100,44 @@
         "time": "2025-06-26 12:13:45"
     },
     {
+        "colo": "FRA",
+        "ip": "172.67.231.223",
+        "latency": 131,
+        "line": "CU",
+        "loss": 0,
+        "node": "KXY_BJCU",
+        "speed": 1540,
+        "time": "2025-06-26 12:40:44"
+    },
+    {
+        "colo": "FRA",
+        "ip": "172.67.197.101",
+        "latency": 131,
+        "line": "CU",
+        "loss": 0,
+        "node": "KXY_BJCU",
+        "speed": 1535,
+        "time": "2025-06-26 12:40:45"
+    },
+    {
         "colo": "HKG",
-        "ip": "172.67.44.224",
-        "latency": 42,
+        "ip": "172.64.92.136",
+        "latency": 44,
         "line": "CU",
         "loss": 0,
         "node": "KXY_BJCU",
-        "speed": 1675,
-        "time": "2025-06-26 12:20:44"
+        "speed": 1430,
+        "time": "2025-06-26 12:50:44"
     },
     {
-        "colo": "FRA",
-        "ip": "172.67.241.190",
-        "latency": 131,
+        "colo": "HKG",
+        "ip": "172.67.44.191",
+        "latency": 41,
         "line": "CU",
         "loss": 0,
         "node": "KXY_BJCU",
-        "speed": 1520,
-        "time": "2025-06-26 12:10:45"
-    },
-    {
-        "colo": "FRA",
-        "ip": "172.67.177.80",
-        "latency": 131,
-        "line": "CU",
-        "loss": 0,
-        "node": "KXY_BJCU",
-        "speed": 1500,
-        "time": "2025-06-26 12:10:45"
+        "speed": 800,
+        "time": "2025-06-26 12:30:45"
     },
     {
         "colo": "FRA",
@@ -138,15 +148,5 @@
         "node": "KXY_BJCU",
         "speed": 590,
         "time": "2025-06-26 12:20:47"
-    },
-    {
-        "colo": "HKG",
-        "ip": "172.67.11.143",
-        "latency": 45,
-        "line": "CU",
-        "loss": 0,
-        "node": "KXY_BJCU",
-        "speed": 260,
-        "time": "2025-06-26 11:50:48"
     }
 ]
